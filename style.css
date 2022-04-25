@@ -20,7 +20,17 @@ a:hover {
 
 blockquote{
     font-size: 20px!important;
+    color: black;
 }
+
+#bloc-5-title{
+    position: relative;
+}
+
+#footer-title{
+    color: black;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -103,7 +113,7 @@ blockquote{
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: black;
 }
 
 .d-bloc button:hover {
@@ -198,7 +208,7 @@ blockquote{
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -650,7 +660,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -720,7 +730,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: black!important;
 }
 
 h4 {
@@ -768,20 +778,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: white;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: black;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: red!important;
     color: #FFFFFF!important;
 }
 
@@ -794,11 +804,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: white!important;
 }
 
 .icon-dark-slate-blue {
